@@ -1,2 +1,2 @@
 # SampleTest
-This project for SampleTest in GIT HUB
+This project for SampleTest code
